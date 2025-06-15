@@ -1,0 +1,10 @@
+torch==2.4.0
+vllm==0.6.0 
+huggingface_hub==0.27.1
+numpy==1.24.0
+pydantic==2.10.5
+fastapi==0.115.6
+uvicorn==0.34.0
+python-dotenv==1.0.1
+
+# python==3.11.11
